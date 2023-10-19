@@ -7,7 +7,7 @@
 ## 获取项目
 
 ```
-git clone https://github.com/dachengxi/user-id-decrypter
+git clone https://github.com/pulllock/user-id-decrypter
 ```
 
 
@@ -55,7 +55,7 @@ pyinstaller -F -w -i icon.ico encrypt_ui.py
 
 ## 作者
 
-* **ChengXi** - ** - [dachengxi](https://github.com/dachengxi)
+* **Pullock** - ** - [Pullock](https://github.com/pulllock)
 
 ## License
 
